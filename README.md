@@ -28,3 +28,4 @@ Finally, you will compare its performance to the one of a Linear Regression, and
 To start the exercise, open `KNN.ipynb` in `jupyter notebook` and follow the instructions.
 
 🚀 Your turn!
+# data-knn
